@@ -1,0 +1,38 @@
+[
+  {
+    "user_name": "Kevin",
+    "user_id": "1",
+    "invoice_reference": "12353432532",
+    "invoice_type": "Invoice",
+    "invoice_product": "Collect &amp; Stamp",
+    "invoice_period": "14.09.2014 - 14.10.2014",
+    "invoice_date": "14.09.2014",
+    "invoice_amount": "1050.00",
+    "invoice_amount_cur": "EUR",
+    "invoice_payment_status": "Pre-paid"
+  },
+  {
+    "user_name": "Joy",
+    "user_id": "2",
+    "invoice_reference": "12353432531",
+    "invoice_type": "Invoice",
+    "invoice_product": "Collect &amp; Stamp",
+    "invoice_period": "14.09.2014 - 14.10.2014",
+    "invoice_date": "14.09.2014",
+    "invoice_amount": "1050.00",
+    "invoice_amount_cur": "EUR",
+    "invoice_payment_status": "Outstanding"
+  },
+  {
+    "user_name": "Kevin",
+    "user_id": "1",
+    "invoice_reference": "12353432533",
+    "invoice_type": "Invoice",
+    "invoice_product": "Collect &amp; Stamp",
+    "invoice_period": "14.09.2014 - 14.10.2014",
+    "invoice_date": "14.09.2014",
+    "invoice_amount": "1050.00",
+    "invoice_amount_cur": "EUR",
+    "invoice_payment_status": "Overdue"
+  }
+]

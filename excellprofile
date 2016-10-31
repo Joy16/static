@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Colruyt",
+    "legal_form": "NV",
+    "direct_debit": "N",
+    "language": "Nederlands",
+    "unit": "Colruyt",
+    "national_nr": "—",
+    "kbo_no": "045678899876",
+    "customer_industry": "BCM - R & CG",
+    "vat_status": "BCM - R & CG",
+    "vat_no": "BE0123456789",
+    "validity_reason": "Colruyt",
+    "legal_status": "—",
+    "pop_id": "6905123",
+    "street": "Edingensesteenweg",
+    "post_code": "1500",
+    "other_description": "—",
+    "pdp_suffix": "—",
+    "no": "123",
+    "city_name": "Halle",
+    "country": "Belgium",
+    "box": "—",
+    "my_certificated": {
+      "0": "Direct Mail certificate",
+      "1": "Volumail certificate"
+    },
+    "my_psr_no": "Colruyt PRS 012345",
+    "assosciated_com": {
+      "0": "Dreamland PRS 012346",
+      "1": "Collishop PRS 012347"
+    }
+  }
+]
